@@ -348,31 +348,13 @@ Repeat
 
 I don't want to just learn technologies — **I want to use them to build useful products and solve real-world problems.**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharath76708&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath76708&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharath76708&hide_border=true" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: **https://www.linkedin.com/in/bharathai26/**
 * 🐙 GitHub: **https://github.com/bharath76708**
-* https://komarev.com/ghpvc/bharath76708
-* https://ghstats.dev/api/card?bharath76708
+* ![](https://komarev.com/ghpvc/?bharath76708)
+* ![GitHub Stats](https://ghstats.dev/api/card?bharath76708)
 
 ---
 
