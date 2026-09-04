@@ -353,8 +353,8 @@ I don't want to just learn technologies — **I want to use them to build useful
 
 * 💼 LinkedIn: **https://www.linkedin.com/in/bharathai26/**
 * 🐙 GitHub: **https://github.com/bharath76708**
-* ![](https://komarev.com/ghpvc/?bharath76708)
-* ![GitHub Stats](https://ghstats.dev/api/card?bharath76708)
+* ![](https://komarev.com/ghpvc/?username=your-github-bharath76708)
+* ![GitHub Stats](https://ghstats.dev/api/card?username=bharath76708)
 
 ---
 
