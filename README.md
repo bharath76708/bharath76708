@@ -14,43 +14,33 @@ Currently, I’m working on strengthening my expertise in **AI Agents, Generativ
 
 ## 👨‍💻 About Me
 
-* 🤖 Interested in **Artificial Intelligence, Generative AI, and AI Agents**
-* 🐍 Python Developer with a focus on AI/ML applications
-* 🧠 Exploring **NLP, Machine Learning, LLMs, and Agentic AI**
-* ☁️ Learning **AWS, Cloud Computing, Docker, Kubernetes, and DevOps**
-* ⚙️ Building automation workflows using **n8n**
-* 🔗 Exploring **LangChain, LangGraph, CrewAI, MCP, and LLM APIs**
-* 🌐 Building applications with **FastAPI, Flask, React, and TypeScript**
-* 📊 Working with **Pandas, NumPy, Scikit-learn, and data-processing tools**
-* 🚀 Interested in building scalable and practical AI solutions
-* 📚 Following a continuous **Learning → Building → Improving** approach
+Bharath’s work sits at the intersection of **AI engineering, automation, and agentic systems**. He builds Python-based applications and AI agents that turn real-world problems into practical, working solutions.
+
+His work involves building systems that connect **LLMs, APIs, databases, automation workflows, and custom business logic**. Rather than using AI only for chat or simple predictions, he focuses on building applications that can **reason, use tools, interact with services, and complete multi-step tasks**.
+
+At **Agent Ops Labs**, Bharath works as an **AI Engineer** and also leads the **AgentOps team**, coordinating team members on AI and automation initiatives while helping them improve their technical and problem-solving skills.
+
+He is currently deepening his expertise in **Agentic AI, Natural Language Processing, Python, API integration, AI automation, and cloud deployment**, while exploring technologies such as **LangChain, LangGraph, CrewAI, MCP, n8n, FastAPI, and AWS**
 
 ---
 
 ## 💼 Experience
 
-### Artificial Intelligence / AI Engineering
+## AI Engineer & Team Leader – AgentOps
 
-**Agent Ops Labs**
+### Agent Ops Labs
 
-* Working on practical **Artificial Intelligence and Knowledge Engineering** concepts
-* Exploring AI Agents and automation-based solutions
-* Building and experimenting with AI-powered applications
-* Working with modern AI development tools and frameworks
-* Strengthening skills in Python, APIs, cloud, DevOps, and AI deployment
+**May 2026 – Present**
 
-### AI & Technology Projects
+* Build AI-powered applications, AI agents, and automation workflows using Python and modern AI frameworks.
+* Develop agentic systems using LLMs, APIs, tools, and multi-step workflows.
+* Work with Python, FastAPI, LangChain, LangGraph, CrewAI, MCP, Gemini, and n8n.
+* Integrate APIs, databases, AI models, and automation workflows into practical applications.
+* Lead the AgentOps team by coordinating team members, delegating tasks, and tracking project progress.
+* Support team members in improving technical skills and problem-solving approaches.
+* Explore and implement Agentic AI, Generative AI, NLP, and automation technologies.
+* Contribute to AI application development, testing, deployment, and continuous improvement.
 
-I have worked on multiple practical projects involving:
-
-* Machine Learning
-* Natural Language Processing
-* Computer Vision
-* AI-powered applications
-* Automation workflows
-* Data processing
-* API integrations
-* Web-based AI solutions
 
 ---
 
@@ -294,22 +284,6 @@ I believe that consistent learning and practical implementation are the fastest 
 
 ---
 
-## 🏆 Areas of Interest
-
-* Artificial Intelligence
-* Generative AI
-* Agentic AI
-* Machine Learning
-* Natural Language Processing
-* Computer Vision
-* Python Development
-* Cloud Computing
-* DevOps
-* Automation
-* SaaS Applications
-* AI-powered Products
-
----
 
 ## ✍️ I Write & Learn About
 
